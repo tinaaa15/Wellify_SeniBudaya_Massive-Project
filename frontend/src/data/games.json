@@ -1,0 +1,55 @@
+{
+    "data": [
+      {
+        "question": "Alat musik suling ini berasal dari daerah mana?",
+        "choices": ["Jawa Timur", "Jawa Barat", "Bali", "Aceh"],
+        "answer": "Jawa Barat"
+      },
+      {
+        "question": "Dari manakah Tari Gambyong berasal?",
+        "choices": ["Sumatra", "Jawa Barat", "Jawa Tengah", "Papua"],
+        "answer": "Jawa Barat"
+      },
+      {
+        "question": "Siapakah nama pencipta lagu Gambang Suling?",
+        "choices": ["Noname", "R.C. Hardjo Subroto", "Ki Narto Sabdo", "WR Supratman"],
+        "answer": "Ki Narto Sabdo"
+      },
+      {
+        "question": " Apa nama dari Rumah adat Jawa Tengah?",
+        "choices": ["Sasadu", "Gadang", "Baduy", "Joglo"],
+        "answer": "Gadang"
+      },
+      {
+        "question": "Apa nama tarian yang ditarikan dengan gerakan kompak berasal dari daerah Aceh?",
+        "choices": ["Tari Pendet", "Reog Ponorogo", "Tari Saman", "Tari Jipong"],
+        "answer": "Tari Saman"
+      },
+      {
+        "question": "Alat musik tradisional yang berasal dari Papua bernama?",
+        "choices": ["Gamelan", "Suling", "Tifa", "Gitar"],
+        "answer": "Tifa"
+      },
+      {
+        "question": "Pakaian Adat Madya berasal dari Provinsi?",
+        "choices": ["Jawa Tengah", "Jakarta", "Surabaya", "Bali"],
+        "answer": "Bali"
+      },
+      {
+        "question": "Darimana Lagu Yamko Rambe Yamko berasal?",
+        "choices": ["Papua", "Yogyakarta", "Batam", "Maluku"],
+        "answer": "Papua"
+      },
+      {
+        "question": "Alat musik tradisional yang dimainkan dengan cara dipukul adalah",
+        "choices": ["Suling", "Kendang", "Gitar", "Pianika"],
+        "answer": "Kendang"
+      },
+      {
+        "question": "Apa nama tarian yang berasal dari Bali, dan ditarikan oleh sekelompok pria dengan membunyikan suara cak,cak,cak",
+        "choices": ["Tari Pendet", "Kecak", "Tari Piring", "Tari Jaipong"],
+        "answer": "Kecak"
+      }
+    ]
+  }
+  
